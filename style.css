@@ -1,0 +1,34 @@
+
+body{
+background-color: #333333;
+}
+
+.card {
+    width: 20rem;
+    height: 40%;
+    display: flex;
+    float: left;
+    margin: 5%;
+    margin-right: 1%;
+    border: solid;
+    border-width: 1px;
+    border-radius: 7px;
+    border-color: #59554C;
+    background-color:#D6D6D6;
+}
+
+.card-img-top{
+margin: 20%;
+align-self: center;
+    height: 30%;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+.card-body {
+    margin: none;
+    align-items: center;
+}
